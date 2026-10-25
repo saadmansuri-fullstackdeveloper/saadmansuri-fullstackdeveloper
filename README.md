@@ -10,7 +10,7 @@ I design and build responsive websites and full-stack web applications, combinin
 - Improve or modernize existing .NET applications
 - Strengthen delivery with CI/CD, cloud, and deployment practices
 
-I work across the stack, from understanding requirements and shaping the solution to implementation and delivery. My background includes leading engineering for enterprise platforms in financial services.
+I work across the stack, from understanding requirements and shaping the solution to implementation and delivery. My background includes leading engineering for enterprise platforms.
 
 ## Featured project
 
