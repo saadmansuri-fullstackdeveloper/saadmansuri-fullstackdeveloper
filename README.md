@@ -29,7 +29,7 @@ The repository includes screenshots, features, and instructions for opening the 
 
 ## Experience
 
-I’m a Software Engineering Manager with 13+ years across full-stack development, software architecture, DevOps, and Agile delivery. I bring hands-on engineering experience together with architecture reviews, technical planning, and team leadership.
+I’m a Software Engineering Manager with 14 years across full-stack development, software architecture, DevOps, and Agile delivery. I bring hands-on engineering experience together with architecture reviews, technical planning, and team leadership.
 
 ## Let’s talk
 
