@@ -18,7 +18,7 @@ I work across the stack, from understanding requirements and shaping the solutio
 
 A full-stack appointment booking demo for a fictional independent studio. Customers can browse services, check sample availability, book a session, and receive an on-screen confirmation.
 
-**Stack:** React, TypeScript, ASP.NET Core Minimal API, and .NET 10. Bookings use in-memory demo data; authentication, persistent storage, email, and payments are not implemented.
+**Stack:** React, TypeScript, ASP.NET API, C# and .NET 10.
 ### [Ashgrove Academy — website prototype](https://github.com/saadmansuri-fullstackdeveloper/academy-prototype)
 
 A responsive school website prototype featuring course browsing, course details, a sample enrolment flow, news and events, job listings, and an illustrative staff content panel.
